@@ -2,7 +2,7 @@ import React from "react";
 
 export const Cards = () => {
     return (
-        <div className="d-flex" >
+        <div className="d-flex mt-3" >
             <div className="card" style={{width: '18rem'}}>
                 <img src="..." className="card-img-top" alt="..." />
                 <div className="card-body">
